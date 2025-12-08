@@ -1,0 +1,6 @@
+{
+  "name": "Python CI",
+  "description": "CI workflow for Python projects with testing, linting, and type checking",
+  "iconName": "python",
+  "categories": ["Python"]
+}

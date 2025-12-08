@@ -1,0 +1,6 @@
+{
+  "name": "Next.js CI",
+  "description": "CI workflow for Next.js projects with linting, type checking, and building",
+  "iconName": "nextjs",
+  "categories": ["JavaScript", "TypeScript"]
+}
