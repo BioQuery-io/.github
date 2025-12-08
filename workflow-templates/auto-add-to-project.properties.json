@@ -1,0 +1,6 @@
+{
+  "name": "Auto-add to Project",
+  "description": "Automatically adds new issues and PRs to the BioQuery Roadmap project board",
+  "iconName": "octicon project",
+  "categories": ["Automation"]
+}
