@@ -20,7 +20,6 @@ Ask questions in plain English. Get publication-ready answers with interactive v
 | [bioquery-frontend](https://github.com/BioQuery-io/bioquery-frontend) | Next.js web app |
 | [bioquery-docs](https://github.com/BioQuery-io/bioquery-docs) | Documentation site |
 | [bioquery-py](https://github.com/BioQuery-io/bioquery-py) | Python SDK |
-| [bioquery-wiki](https://github.com/BioQuery-io/bioquery-wiki/wiki) | Internal developer wiki 🔒 |
 
 ## Example Query
 
