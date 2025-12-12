@@ -12,12 +12,10 @@ Ask questions in plain English. Get publication-ready answers with interactive v
 | Documentation | [docs.bioquery.io](https://docs.bioquery.io) |
 | API | [api.bioquery.io](https://api.bioquery.io) |
 
-## Repositories
+## Public Repositories
 
 | Repo | Description |
 |------|-------------|
-| [bioquery-api](https://github.com/BioQuery-io/bioquery-api) | FastAPI backend |
-| [bioquery-frontend](https://github.com/BioQuery-io/bioquery-frontend) | Next.js web app |
 | [bioquery-docs](https://github.com/BioQuery-io/bioquery-docs) | Documentation site |
 | [bioquery-py](https://github.com/BioQuery-io/bioquery-py) | Python SDK |
 
